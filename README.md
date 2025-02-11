@@ -1,51 +1,35 @@
 
 <h1 align="center">Algoritmos Sintaxe Kotlin</h1>
 
-<p align="center">
-    <img src="./images/csharp.jpg" width="150">
-</p>
 
-<p align="center">
- <a href="#status">Status</a> • 
- <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
- <a href="#technology">Technology</a> • 
- <a href="#author">Author</a> •
- <a href="#licence">License</a>
-</p>
 
-<h2 align="center" id=status> 
-	:beginner: Initiated :beginner:
-</h2>
+<h2 id=objective>:scroll: Objetivos</h2>
 
-<h2 id=objective>:scroll: Objective</h2>
-The goal is to improve unit testing.<br>
-The advantages of testing our applications.<br>
-Learn new testing tools.
+O objetivo é do projeto é iniciar meus estudos no kotlin
+Colocar em prática lógica de programação
 
-<h2 id=installation>:clipboard: Installation</h2>
 
-1. Clone the repo.
-2. Install Visual Studio.
+<h2 id=installation>:clipboard: Instalação</h2>
 
-<h2 id=technology>:toolbox: Technology</h2>
+1. Clone o repositório.
+2. Instale o  Visual Studio.
 
-The following tools were used in the construction of the project:
+<h2 id=technology>:toolbox: Tecnologias</h2>
+
+Ferramentas utilizadas no desenvolvimento do projeto:
 
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://go.microsoft.com/fwlink/?linkid=2088631">Net FrameWork 4.8</a>
+- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">Net FrameWork 4.8</a>
 
-<h2 id=author>:grin: Author</h2>
+<h2 id=author>:grin: Autor</h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
-
-<h2 id=licence>:lock: Licence</h2>
-<a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
+Desenvolvido por: <a href="https://www.linkedin.com/in/gabrielaschaper/" target="_blank">GabiScha</a>
 
 
 
-utilizado: https://www.jdoodle.com/compile-kotlin-online / VsCode
-inspiração: https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/README.md
-badges: https://shields.io/badges
+<h2 id=author> Inspiração</h2>
 
-<img src="https://img.shields.io/badge/figma-A020F0.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+Inspiração: https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/README.md
+
+
+
