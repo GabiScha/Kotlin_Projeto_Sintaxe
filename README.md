@@ -19,7 +19,7 @@ e colocar em prática lógica de programação
 Ferramentas utilizadas no desenvolvimento do projeto:
 
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">Net FrameWork 4.8</a>
+- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">JDoodle</a>
 
 <h2 id=author>:grin: Autor</h2>
 
