@@ -5,7 +5,7 @@
 
 <h2 id=objective>📌 Objetivos</h2>
 
-O objetivo é do projeto é começar o estudo da linguagem Kotlin e aprender suas sintaxes básicas.
+O objetivo do projeto é começar o estudo da linguagem Kotlin e aprender suas sintaxes básicas.
 
 <h2 id=features>⚙️ Funcionalidades </h2>
 
